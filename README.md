@@ -1,5 +1,3 @@
-for clear project with node modules also here is the gdrive link - https://drive.google.com/file/d/1o8Y16UJblOT7UWHkZnan6f1P4gMk4j7A/view?usp=drive_link
-
 Project Introduction:
 
 This full-stack web application, built with React, Node.js, and PostgreSQL, manages customer data efficiently. 
